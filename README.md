@@ -1,5 +1,5 @@
 # git_test
 
-Awesome stuff
+Is more awesome when conflicts are handled
 
 More things
